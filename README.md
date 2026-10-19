@@ -18,11 +18,11 @@ Estudante de programação, apaixonado por aprender e construir coisas novas.
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LuizFernandoValadao&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoValadao&layout=compact&theme=radical)
 
 ## 📫 Contato
 
-- [LinkedIn](https://linkedin.com/in/SEU_USUARIO)
+- [LinkedIn](https://linkedin.com/in/LuizFernandoValadao)
 - E-mail: seu@email.com
