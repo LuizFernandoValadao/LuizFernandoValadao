@@ -25,4 +25,4 @@ Estudante de programação, apaixonado por aprender e construir coisas novas.
 ## 📫 Contato
 
 - [LinkedIn](https://linkedin.com/in/LuizFernandoValadao)
-- E-mail: seu@email.com
+- E-mail: l17996021823@gmail.com
