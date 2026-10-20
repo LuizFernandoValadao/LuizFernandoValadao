@@ -16,12 +16,6 @@ Estudante de programação, apaixonado por aprender e construir coisas novas.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-## 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LuizFernandoValadao&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoValadao&layout=compact&theme=radical)
-
 ## 📫 Contato
 
 - [https://linkedin.com/in/LuizFernandoValadao](https://www.linkedin.com/in/luiz-fernando-valad%C3%A3o-tomaz-a48483332/)
