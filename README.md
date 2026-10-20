@@ -18,5 +18,5 @@ Estudante de programação, apaixonado por aprender e construir coisas novas.
 
 ## 📫 Contato
 
-- [https://linkedin.com/in/LuizFernandoValadao](https://www.linkedin.com/in/luiz-fernando-valad%C3%A3o-tomaz-a48483332/)
+- LinkedIn: [https://linkedin.com/in/LuizFernandoValadao](https://www.linkedin.com/in/luiz-fernando-valad%C3%A3o-tomaz-a48483332/)
 - E-mail: l17996021823@gmail.com
